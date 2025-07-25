@@ -109,7 +109,7 @@ Contributions, suggestions, and improvements are welcome! Feel free to open issu
 
 ## License
 
-This project is open-source and free to use under the MIT License.
+This project is open-source and free to use under the Mozilla Public License 2.0.
 
 ---
 
